@@ -6,10 +6,10 @@ export class ProfileController {
   @Get()
   getProfile() {
     return {
-      name: "Juan Dela Cruz",
+      name: "Alfredo A. Castalla",
       course: "BS Information Technology",
       year: "3rd Year",
-      email: "juan.delacruz@university.edu"
+      email: "acastalla@ssct.edu.ph"
     };
   }
 

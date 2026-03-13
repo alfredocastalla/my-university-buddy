@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Student Profile</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Student Profile</h1>
+
+<div class="card" id="profileCard"></div>
+
+<script>
+
+fetch("/profile")
+.then(res => res.json())
+.then(data => {
+
+document.getElementById("profileCard").innerHTML = `
+<h2>${data.name}</h2>
+<p><b>Course:</b> ${data.course}</p>
+<p><b>Year:</b> ${data.year}</p>
+<p><b>Email:</b> ${data.email}</p>
+`;
+
+});
+
+</script>
+
+</body>
+</html>

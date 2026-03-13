@@ -9,17 +9,17 @@ export class CoursesController {
       {
         code: "IT101",
         name: "Introduction to Information Technology",
-        instructor: "Dr. Santos"
+        instructor: "Dr. Edradan"
       },
       {
         code: "IT202",
         name: "Web Development",
-        instructor: "Prof. Reyes"
+        instructor: "Prof. Lerio"
       },
       {
         code: "IT303",
         name: "Database Systems",
-        instructor: "Dr. Cruz"
+        instructor: "Dr. Beto"
       }
     ];
   }
