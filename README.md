@@ -79,10 +79,8 @@ I implemented a full-stack web application using NestJS for the backend and stat
 Screenshots demonstrating the features are included in the submission as separate image files:
 - Screenshot 1: Student Profile Card display
 - Screenshot 2: Course List View
-- Screenshot 3: API response for profile endpoint
-- Screenshot 4: API response for courses endpoint
-- Screenshot 5: Main application page
-- Screenshot 6: Navigation between features
+- Screenshot 3: Main application page
+- Screenshot 4: Navigation between features
 
 ## How to Run the Application
 
