@@ -80,9 +80,9 @@ Screenshots demonstrating the features are included in the submission as separat
 - Screenshot 1: Student Profile Card display
 - Screenshot 2: Course List View
 - Screenshot 3: API response for profile endpoint
-- Screenshot 4: API response for courses endpoint
-- Screenshot 5: Main application page
-- Screenshot 6: Navigation between features
+- Screenshot 3: API response for courses endpoint
+- Screenshot 3: Main application page
+- Screenshot 4: Navigation between features
 
 ## How to Run the Application
 
@@ -95,10 +95,12 @@ Screenshots demonstrating the features are included in the submission as separat
 
 ## Git Workflow
 
-- Created a feature branch `feature/assignment-1` for development.
+- Created a feature branch `feature/student-profile and course-list-view` for development.
 - Made regular commits with descriptive messages such as:
-  - "Add NestJS controllers for profile and courses"
-  - "Implement HTML pages for profile and courses views"
-  - "Add CSS styling for card and list layouts"
-  - "Fix API integration and data display"
+  - “Add student Profile card feature”
+  - “Initial NESTJS project setup”
+  - “Added frontend UI and fixed public folder location”
+  - “Add course list view feature”
+  - “Update README with final assignment documentation”
+ - “Update README with assignment details and feature specs”
 - Merged the feature branch back to main upon completion.
