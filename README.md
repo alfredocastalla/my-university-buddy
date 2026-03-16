@@ -79,6 +79,8 @@ I implemented a full-stack web application using NestJS for the backend and stat
 Screenshots demonstrating the features are included in the submission as separate image files:
 - Screenshot 1: Student Profile Card display
 - Screenshot 2: Course List View
+- Screenshot 3: API response for profile endpoint
+- Screenshot 3: API response for courses endpoint
 - Screenshot 3: Main application page
 - Screenshot 4: Navigation between features
 
@@ -100,5 +102,5 @@ Screenshots demonstrating the features are included in the submission as separat
   - “Added frontend UI and fixed public folder location”
   - “Add course list view feature”
   - “Update README with final assignment documentation”
-  - “Update README with assignment details and feature specs”
+ - “Update README with assignment details and feature specs”
 - Merged the feature branch back to main upon completion.
